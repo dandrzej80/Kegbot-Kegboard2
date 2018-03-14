@@ -24,7 +24,7 @@ def setup_package():
       version = VERSION,
       description = SHORT_DESCRIPTION,
       long_description = LONG_DESCRIPTION,
-      author = 'mike wakerly',
+      author = 'mike wakerly (updated by dandrzej80)',
       author_email = 'opensource@hoho.com',
       url = 'http://kegbot.org/',
       packages = find_packages(exclude=['testdata']),
